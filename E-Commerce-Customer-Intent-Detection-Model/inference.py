@@ -1,7 +1,7 @@
 
 ####################################################
 ## Run this code in colab to access the model 
-## Try the model using this code
+## Try the model using this code snippet and predict the intent for any input text
 ####################################################
 
 
