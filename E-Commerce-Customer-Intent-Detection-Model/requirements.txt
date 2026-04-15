@@ -1,0 +1,27 @@
+# Core Deep Learning
+torch>=2.2.0
+torchvision>=0.17.0
+torchaudio>=2.2.0
+
+# Hugging Face Ecosystem
+transformers>=4.40.0
+datasets>=2.19.0
+huggingface-hub>=0.23.0
+tokenizers>=0.19.0
+
+# Training / Performance (safe to include)
+accelerate>=0.30.0
+
+# Data Handling
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Evaluation / Metrics
+scikit-learn>=1.4.0
+
+# Utilities
+tqdm>=4.66.0
+
+# helps avoid tokenizer/model issues
+sentencepiece>=0.2.0
+
