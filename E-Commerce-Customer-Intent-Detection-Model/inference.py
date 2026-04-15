@@ -1,7 +1,8 @@
 
-############################
-## Run this code in colab to access the model
-############################
+####################################################
+## Run this code in colab to access the model 
+## Try the model using this code
+####################################################
 
 
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
